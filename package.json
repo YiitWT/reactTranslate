@@ -1,0 +1,23 @@
+{
+  "name": "reacttranslate",
+  "version": "1.0.0",
+  "description": "A lightweight language-support tool for ReactJS",
+  "keywords": [
+    "react",
+    "translate",
+    "language",
+    "translate",
+    "translator",
+    "translation",
+    "reactjs",
+    "react-translate",
+    "reacttranslator"
+  ],
+  "license": "MIT",
+  "author": "https://yiit.xyz",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
